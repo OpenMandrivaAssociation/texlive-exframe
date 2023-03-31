@@ -1,6 +1,6 @@
 Name:		texlive-exframe
 Version:	53911
-Release:	1
+Release:	2
 Summary:	Framework for exercise problems
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exframe
