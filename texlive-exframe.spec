@@ -3,7 +3,7 @@ Version:	53911
 Release:	2
 Summary:	Framework for exercise problems
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exframe
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/exframe
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exframe.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exframe.doc.r%{version}.tar.xz
